@@ -1,0 +1,9 @@
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.deps.json
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade2\Atividade2EFCoreClassLibrary\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.csprojResolveAssemblyReference.cache
