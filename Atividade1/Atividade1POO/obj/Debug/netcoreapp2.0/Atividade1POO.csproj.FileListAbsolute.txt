@@ -1,0 +1,18 @@
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.deps.json
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csprojResolveAssemblyReference.cache
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.deps.json
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfo.cs
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\anedi\Desktop\LP2-master\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.pdb
